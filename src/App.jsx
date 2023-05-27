@@ -1,10 +1,9 @@
 import './App.css'
-import Image from './components/image'
 import Main from './components/Main'
+
 function App() {
     return(
-        <div>
-            <Image />
+        <div className='flex flex-col justify-center items-center min-h-screen bg-pale-blue rounded-2xl'>
             <Main />
         </div>
     )
