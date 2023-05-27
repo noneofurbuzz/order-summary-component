@@ -13,8 +13,8 @@ function Main(){
                 <div className="flex items-center mr-10">
                 <img src= {music} alt="music-logo" className="pr-4"></img>
                 <div>
-                    <p className="text-dark-blue font-bold text-sm">Annual Plan</p>
-                    <p className="text-sm font-medium text-desaturated">$59.99/year</p>
+                    <p className="text-dark-blue font-bold text-sm whitespace-nowrap">Annual Plan</p>
+                    <p className="text-sm font-medium text-desaturated whitespace-nowrap">$59.99/year</p>
                 </div>
                 </div>
                 <a href="#" className="text-bright-blue font-bold ml-10 underline text-sm hover:text-desaturated active:text-desaturated">Change</a>
