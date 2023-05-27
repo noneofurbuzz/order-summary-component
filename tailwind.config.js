@@ -15,6 +15,9 @@ export default {
         "dark-blue":"hsl(223, 47%, 23%)",
         "very-pale-blue":"hsl(225, 100%, 98%)",
         "bright-blue":"hsl(245,75%,52%)"
+      },
+      maxWidth:{
+        "80%":"80%",
       }
     },
   },
