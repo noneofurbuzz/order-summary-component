@@ -20,8 +20,8 @@ function Main(){
                 <a href="#" className="text-bright-blue font-bold ml-10 underline text-sm hover:text-desaturated active:text-desaturated">Change</a>
             </div>
             <div className="flex flex-col">
-                <button className="bg-bright-blue m-auto mx-12 rounded-xl py-3 text-white font-bold text-sm shadow-2xl hover:bg-desaturated active:bg-desaturated">Proceed to Payment</button>
-                <a href="#" className="text-center m-auto font-bold pt-4 pb-6 text-sm text-desaturated hover:text-dark-blue active:text-dark-blue">Cancel Order</a>
+                <button className="bg-bright-blue mx-5 rounded-xl py-3 text-white font-bold text-sm shadow-2xl hover:bg-desaturated active:bg-desaturated">Proceed to Payment</button>
+                <a href="#" className="text-center font-bold pt-4 pb-6 text-sm text-desaturated hover:text-dark-blue active:text-dark-blue">Cancel Order</a>
             </div>
             
         </div>
